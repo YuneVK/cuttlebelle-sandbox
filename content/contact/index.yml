@@ -1,0 +1,11 @@
+title: Contacto
+
+header:
+  - /_shared/header.md
+
+footer:
+  - /_shared/footer.md
+
+main:
+  - blocks.md
+  - blocks.md

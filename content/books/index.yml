@@ -1,0 +1,10 @@
+title: Books
+
+header:
+  - /_shared/header.md
+
+footer:
+  - /_shared/footer.md
+
+main:
+  - body.md
